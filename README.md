@@ -46,7 +46,7 @@ ID: 512, nombre: estudiante #3, indice academico: 3.739
 
 ID: 982, nombre: estudiante #4, indice academico: 3.928
 
-Nota: Los indices son random
+Nota: Los indices son random, los resultados no seran los mismos
 
 *****************************************************************************************************
 Análisis del Rendimiento
