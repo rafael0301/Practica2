@@ -35,9 +35,13 @@ orden = asc
 Salida:
 
 ID: 847, nombre: estudiante #2, indice academico: 1.577
+
 ID: 283, nombre: estudiante #5, indice academico: 2.124
+
 ID: 127, nombre: estudiante #1, indice academico: 3.137
+
 ID: 512, nombre: estudiante #3, indice academico: 3.739
+
 ID: 982, nombre: estudiante #4, indice academico: 3.928
 
 *****************************************************************************************************
