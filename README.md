@@ -17,6 +17,7 @@ La primera mitad se rota a la izquierda y la segunda mitad a la derecha, en func
 Ejemplo Entrada:
 
 Arr[A B C D E F G H]
+
 T = 3
 
 Salida:
@@ -30,6 +31,7 @@ Los estudiantes son ordenados en función de su índice académico en orden asce
 Ejemplo Entrada:
 
 estudiantes a generar = 5
+
 orden = asc
 
 Salida:
@@ -43,6 +45,8 @@ ID: 127, nombre: estudiante #1, indice academico: 3.137
 ID: 512, nombre: estudiante #3, indice academico: 3.739
 
 ID: 982, nombre: estudiante #4, indice academico: 3.928
+
+Nota: Los indices son random
 
 *****************************************************************************************************
 Análisis del Rendimiento
